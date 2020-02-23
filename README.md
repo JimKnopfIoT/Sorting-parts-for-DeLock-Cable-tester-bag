@@ -16,6 +16,7 @@ Therefore I designed some sorting parts. The bag looks tidy now.
 ![Example Case](iso.jpg)
 ![Example Case](iso2.jpg)
 ![Example Case](iso3.jpg)
+![Example Case](iso4.jpg)
 ![Example Case](20200220-DSC04946.jpg)
 ![Example Case](20200220-DSC04947.jpg)
 ![Example Case](20200220-DSC04949.jpg)
