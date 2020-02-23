@@ -17,6 +17,7 @@ Therefore I designed some sorting parts. The bag looks tidy now.
 ![Example](iso2.jpg)
 ![Example](iso3.jpg)
 ![Example](iso4.jpg)
+![Example](20200220-DSC04961.jpg)
 ![Example](20200220-DSC04946.jpg)
 ![Example](20200220-DSC04947.jpg)
 ![Example](20200220-DSC04949.jpg)
@@ -25,5 +26,5 @@ Therefore I designed some sorting parts. The bag looks tidy now.
 ![Example](20200220-DSC04956.jpg)
 ![Example](20200220-DSC04958.jpg)
 ![Example](20200220-DSC04959.jpg)
-![Example](20200220-DSC04961.jpg)
+
 
