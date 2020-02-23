@@ -1,4 +1,4 @@
-# Sorting-parts-for-DeLock-Cable-tester-bag
+# Sorting parts for DeLock Cable tester bag
 Sorting parts for DeLock Cable-tester bag (STL File, created with Rhino 6) 
 
 ## Parts
