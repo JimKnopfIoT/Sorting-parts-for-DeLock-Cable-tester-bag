@@ -14,18 +14,18 @@ I have sorting parts for different Rj45 Adapters, 9V Battery, Wires.
 * Filament of your choice
 
 ## View
-![Example](iso1.jpg)
-![Example](iso2.jpg)
-![Example](iso3.jpg)
-![Example](iso4.jpg)
-![Example](20200220-DSC04961.jpg)
-![Example](20200220-DSC04946.jpg)
-![Example](20200220-DSC04947.jpg)
-![Example](20200220-DSC04949.jpg)
-![Example](20200220-DSC04950.jpg)
-![Example](20200220-DSC04953.jpg)
-![Example](20200220-DSC04956.jpg)
-![Example](20200220-DSC04958.jpg)
-![Example](20200220-DSC04959.jpg)
+<img src="iso1.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="iso3.jpg" width="500" align="center"> 
+<img src="iso4.jpg" width="500" align="center"> 
+<img src="20200220-DSC04961.jpg" width="500" align="center"> 
+<img src="20200220-DSC04946.jpg" width="500" align="center"> 
+<img src="20200220-DSC04947.jpg" width="500" align="center"> 
+<img src="20200220-DSC04949.jpg" width="500" align="center"> 
+<img src="20200220-DSC04950.jpg" width="500" align="center"> 
+<img src="20200220-DSC04953.jpg" width="500" align="center"> 
+<img src="20200220-DSC04956.jpg" width="500" align="center"> 
+<img src="20200220-DSC04958.jpg" width="500" align="center"> 
+<img src="20200220-DSC04959.jpg" width="500" align="center"> 
 
 
